@@ -13,6 +13,7 @@
 		7A17FA412ADF21F4000BACE2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A17FA3F2ADF21F4000BACE2 /* Main.storyboard */; };
 		7A17FA432ADF21F7000BACE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A17FA422ADF21F7000BACE2 /* Assets.xcassets */; };
 		7A17FA462ADF21F7000BACE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7A17FA442ADF21F7000BACE2 /* LaunchScreen.storyboard */; };
+		7A17FA4E2ADF2308000BACE2 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A17FA4D2ADF2308000BACE2 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		7A17FA422ADF21F7000BACE2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A17FA452ADF21F7000BACE2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7A17FA472ADF21F7000BACE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7A17FA4D2ADF2308000BACE2 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				7A17FA422ADF21F7000BACE2 /* Assets.xcassets */,
 				7A17FA442ADF21F7000BACE2 /* LaunchScreen.storyboard */,
 				7A17FA472ADF21F7000BACE2 /* Info.plist */,
+				7A17FA4D2ADF2308000BACE2 /* TableViewController.swift */,
 			);
 			path = "CSUF Arboretum Project V3";
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				7A17FA3E2ADF21F4000BACE2 /* ViewController.swift in Sources */,
 				7A17FA3A2ADF21F4000BACE2 /* AppDelegate.swift in Sources */,
 				7A17FA3C2ADF21F4000BACE2 /* SceneDelegate.swift in Sources */,
+				7A17FA4E2ADF2308000BACE2 /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
